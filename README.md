@@ -1,5 +1,5 @@
 🤦‍♂️ About Me
-
+-
 - 👋 Hi, My name is Wiwat Pitakworarat
 - 👀 I’m an ML engineer passionate about Algorithmic Modeler, Data, Artificial Intelligence living in Bangkok, Thailand.
 - 🌱 I’m currently learning how to implement Reinforcement with Algorithmic Trading Model.
