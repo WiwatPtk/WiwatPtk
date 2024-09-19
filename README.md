@@ -12,7 +12,7 @@
   
 ## 🚗 My Projects
 - [Custom DQN Reinforcement Algorithm for CartPole](https://github.com/WiwatPtk/Custom-DQN-Reinforcement-Algorithm)  : Dive into Custom DQN Reinforcement Algorithm
-- [Designing Own Custom Reinforcement Learning Environment](https://github.com/WiwatPtk/Custom-Reinforcement-Learning-Environment) : Unlock the Power of AI by Build an Train Your Own Custom Environment
+- [Designing Own Custom Reinforcement Learning Environment](https://github.com/WiwatPtk/Custom-Reinforcement-Learning-Environment) :Build an Train Your Own Custom RL Environment
 - [Apply Reinforcement Learning to Solve Real-World Problems](https://github.com/WiwatPtk/RL_Real_World_Problem_Solve) : Learn the Practical Reinforcement Learning in Solving Real World Problem
 
 <!---
