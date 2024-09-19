@@ -8,7 +8,7 @@
 -> https://www.linkedin.com/in/wiwat-pitakworarat , https://medium.com/@wiwat_quant
   
 🚗 My Projects
-- 
+- [Custom Deep Q Network Formula with Cartpole Control](https://github.com/WiwatPtk/Custom-DQN-Reinforcement-Algorithm)
 
 <!---
 WiwatPtk/WiwatPtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
