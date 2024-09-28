@@ -8,8 +8,8 @@
 ## 📫 How to reach me
 
 - https://www.linkedin.com/in/wiwat-pitakworarat
-- https://medium.com/@wiwat_quant
 - https://www.youtube.com/@wiwat_ai_coaching
+- https://medium.com/@wiwat_quant
   
 ## 🚗 My Projects
 - [Custom DQN Reinforcement Algorithm for CartPole](https://github.com/WiwatPtk/Custom-DQN-Reinforcement-Algorithm)  : Dive into Custom DQN Reinforcement Algorithm
